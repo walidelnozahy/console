@@ -10,7 +10,7 @@ menuOrder: 1
 Serveless Console is the next generation of control plan for Teams building as
 Serverless as Possible. We have a limited number of spots for teams that are
 interested in monitoring Serverless architectures. Sign up at
-https://www.serverless.com/console to request access. 
+https://www.serverless.com/console to request access..
 
 ## Getting Started
 
